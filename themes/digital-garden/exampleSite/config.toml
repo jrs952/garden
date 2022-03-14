@@ -1,7 +1,7 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Personal Digital Garden"
-theme = "digitalgarden"
+theme = "digital-garden"
 
 googleAnalytics = "UA-PROPERTY_ID"
 
