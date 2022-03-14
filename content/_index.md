@@ -13,8 +13,4 @@ Twitter, for some, is also equivalent to a digital garden. It lets you share tho
 
 <hr />
 
-Building your own digital garden is not a fad. It's a necessity. Tools like Roam Research, Obsidian and Notion provided means to interlink content, even over a graphical way. Still not sold? Check out [The Digital Garden](https://dev.to/jbranchaud/the-digital-garden-l10) by Josh Branchaud.
-
-Start collecting your ideas 💡, curate thought provoking & interesting content 💬&nbsp; and learn.
-
 → [Go to Documentation](/articles)
