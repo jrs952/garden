@@ -1,7 +1,7 @@
 baseURL = "https://garden.szymurski.com"
 languageCode = "en-us"
 title = "Digital Garden"
-theme = "digitalgarden"
+theme = "digital-garden"
 
 googleAnalytics = "UA-PROPERTY_ID"
 
