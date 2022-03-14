@@ -1,0 +1,38 @@
+baseURL = "https://garden.szymurski.com"
+languageCode = "en-us"
+title = "Digital Garden"
+theme = "digitalgarden"
+
+googleAnalytics = "UA-PROPERTY_ID"
+
+[Params]
+  description = "My Digital Garden"
+  images = ['/digital-garden-logo.png']
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 2
+
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:user@example.org'
+  weight = 8
+[[menu.social]]
+  name = 'RSS'
+  url = '/articles/index.xml'
+  weight = 9
+
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
